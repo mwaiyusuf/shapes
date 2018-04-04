@@ -4,4 +4,6 @@ A site containing shapes drawn using css and has animation
 html
 css
 javascript
+#libraries
+animate.css
 
