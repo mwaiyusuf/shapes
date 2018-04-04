@@ -1,2 +1,4 @@
 # shapes
-in html
+A site containing shapes drawn using css and has animation
+# Technology used
+
