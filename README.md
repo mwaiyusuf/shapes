@@ -1,6 +1,6 @@
 # shapes.
 A site containing shapes drawn using css and has animation...some of the shapes transforming.
-# Technology used
+# Technology used.
 html
 css
 javascript
