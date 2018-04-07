@@ -6,4 +6,5 @@ css
 javascript
 # libraries.
 animate.css
+# fonts
 
